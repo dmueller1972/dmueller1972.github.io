@@ -7,3 +7,4 @@ This wonderful website serves my first github exercises. Up to now it seems to b
 * passionate
 * cool
 > The start is half the way.
+<img src="https://www.vorname.com/cache/inline-images/daniel-images-name-moods-namensbild-d-m-jpg.m.40.600.png"/>
