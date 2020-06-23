@@ -6,4 +6,4 @@ This wonderful website serves my first github exercises. Up to now it seems to b
 * lovely
 * passionate
 * cool
-
+> The start is half the way.
